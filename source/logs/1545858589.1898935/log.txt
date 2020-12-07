@@ -1,0 +1,7 @@
+Namespace(batch_size=128, binary_th=0.0, checkpoint_path='', dataset_path='data/kiba/', learning_rate=0.001, log_dir='logs/1545858589.1898935/', max_seq_len=1000, max_smi_len=100, num_classes=0, num_epoch=10, num_hidden=0, num_windows=[8], problem_type=1, seq_window_lengths=[8, 12], smi_window_lengths=[4, 8])
+---Parameter Search-----
+P1 = 0,  P2 = 0, P3 = 0, Fold = 0, CI-i = 0.746099, CI-ii = 0.746593, MSE = 0.408465
+P1 = 0,  P2 = 0, P3 = 1, Fold = 0, CI-i = 0.749241, CI-ii = 0.749961, MSE = 0.404119
+P1 = 0,  P2 = 1, P3 = 0, Fold = 0, CI-i = 0.770555, CI-ii = 0.768670, MSE = 0.356702
+P1 = 0,  P2 = 1, P3 = 1, Fold = 0, CI-i = 0.759927, CI-ii = 0.760028, MSE = 0.380337
+P1 = 0,  P2 = 0, P3 = 0, Fold = 1, CI-i = 0.745778, CI-ii = 0.744823, MSE = 0.430414

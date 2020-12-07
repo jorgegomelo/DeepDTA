@@ -1,0 +1,2 @@
+P1 = 0,  P2 = 0, P3 = 0, Fold = 0, CI-i = 0.773317, CI-ii = 0.785802, MSE = 11981787.483832
+rning_rate=0.001, log_dir='logs/1546573061.3263545/', max_seq_len=1000, max_smi_len=100, num_classes=0, num_epoch=20, num_hidden=0, num_windows=[16], problem_type=1, seq_window_lengths=[8, 12], smi_window_lengths=[4, 8])
